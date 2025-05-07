@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "libro_id": 1,
+    "usuario": "Sharon Jalk",
+    "fecha_prestamo": "2025-05-07",
+    "fecha_devolucion": "2025-06-07",
+    "devuelto": false
+  }
+]

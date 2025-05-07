@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+    "nacionalidad": "Colombiano",
+    "fecha_nacimiento": "1927-03-06"
+  },
+  {
+    "id": 2,
+    "nombre": "Mario Mendoza",
+    "nacionalidad": "Colombiano",
+    "fecha_nacimiento": "1964-01-06"
+  }
+]

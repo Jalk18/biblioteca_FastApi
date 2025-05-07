@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien a\u00c3\u00b1os de soledad",
+    "autor_id": 1,
+    "genero": "realismo magico",
+    "isbn": "978-0307474728",
+    "publicado": true
+  },
+  {
+    "id": 2,
+    "titulo": "El Coronel No Tiene Quien Le Escriba",
+    "autor_id": 1,
+    "genero": "Ficci\u00f3n literaria",
+    "isbn": "9789588886121",
+    "publicado": true
+  }
+]
