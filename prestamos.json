@@ -3,8 +3,18 @@
     "id": 1,
     "libro_id": 1,
     "usuario": "Sharon Jalk",
+    "telefono": "3045586926",
     "fecha_prestamo": "2025-05-07",
     "fecha_devolucion": "2025-06-07",
+    "devuelto": false
+  },
+  {
+    "id": 2,
+    "libro_id": 2,
+    "usuario": "Juan Lopez",
+    "telefono": 3056678920,
+    "fecha_prestamo": "2025-05-08",
+    "fecha_devolucion": "2025-05-08",
     "devuelto": false
   }
 ]

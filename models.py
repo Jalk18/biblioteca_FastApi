@@ -19,7 +19,8 @@ class Libro(BaseModel):
 class Prestamo(BaseModel):
     id: int
     libro_id: int
-    usuario: str  # Podría ser un ID si tuviéramos modelo Usuario
+    usuario: str  
+    telefono: int 
     fecha_prestamo: date
     fecha_devolucion: Optional[date] = None
     devuelto: bool = False
